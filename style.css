@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+.prime{
+    font-family: 'Courier Prime', monospace;
+}
+body{
+    font-family: 'Inter', sans-serif !important;
+}
+.lead {
+    font-size: 1.25rem !important;
+    font-weight: 400 !important ;
+}
+
+nav{
+   background-color: #1B1F3B;
+}
+.navbar-toggler{
+        background: white !important;
+}
+.w1{
+    background-color: #3755be !important;
+}
+.w2{
+    font-size: 16px !important;
+    font-family: 'Inter', sans-serif !important;
+    color: rgba(255,255,255,.5) !important;
+}
+.w3{
+    color: rgba(73,80,87,.5) !important;
+    font-size: 16px !important;
+    font-family: 'Inter', sans-serif !important;
+}
+
+.w2:hover{
+    color: white !important;
+    border: transparent;
+}
+.w4{
+    font-size: 11.2 !important;
+    background-color: #3755be !important;
+    color: white !important;
+}
+.dropdown-menu{
+    border: transparent !important;
+    margin-left: -35px !important;
+}
+.w5{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif !important;
+}
+.w6{
+    font-size: 14px;
+    font-family: 'Inter', sans-serif !important;
+    color: #ADB5BD;
+}
+.w7{
+    background-color: white !important;
+    color:  #3755be !important;
+    font-family: 'Inter', sans-serif !important;
+    border: transparent;
+    border-radius: 5px;
+    width: 140.52px !important;
+    height: 37.63px !important;
+}
+.q1{
+    position: absolute;
+    top: -250px;
+    left: -155px;
+    width: 600px;
+}
+.q2{
+    position: absolute;
+    right: -0px;
+    top: 435px;
+    width: 274px;
+}
+.w9{
+    position: absolute;
+    right: -0px;
+    top: 333px;
+    width: 385px;
+}
+.section-1{
+    background-color: #3755be;
+    height: 540px;
+    width: 100% !important;
+}
+
+.q3{
+    position: absolute;
+    top: 489px;
+    height: 100px !important;
+    width: 100%;
+    border: transparent !important;
+}
+.q4{
+    position: absolute;
+    color: white;
+}
+.q5{
+    font-size: 72px;
+    font-weight: 500 !important;
+    font-family: 'Inter', sans-serif !important;    
+}
+.q6{
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+.bt1{
+    font-family: 'Inter', sans-serif !important;    
+    font-size: 20px !important;
+    background-color: white !important;
+    color: #3755be !important;
+    padding: 14px 36px !important;
+}
+.bt2{
+    font-family: 'Inter', sans-serif !important;    
+    background-color: #1B1F3B !important;
+    color: white !important;
+    color: transparent;
+    padding: 14px 36px !important;
+}
+.sec-1{
+    padding: 96px;
+}
+.h1{
+    font-size: 40px;
+    font-weight: bold !important;
+}
+.img-1{
+    width: 546.01px;
+    height: 342.08px;
+    border-radius: 7px;
+    border: 1px solid #dee2e6!important;
+}
+.img-1:hover{
+    box-shadow: 0.5rem 0.5rem 0 rgba(218, 226, 235, 0.575);
+}
+@media only screen and (max-width: 700px) {
+    .sec-1{
+        padding: 0px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    }
+    @media only screen and (max-width: 392px) {
+        .bt2{
+            margin-top: 10px;
+        }
+        }
+@media only screen and (max-width: 700px) {
+.img-1{
+    width: 100%;
+  }
+}
+.h-2{
+    font-size: 32px !important;
+    font-weight: 600;
+}
+.new-btn{
+    font-size: 12px !important;
+    background-color: #3755be !important;
+    color: white !important;
+}
+.p-1{
+    font-size: 19px !important;
+    color: #495057;
+    font-weight: 400 !important;
+}
+.icon{
+    color:  #3755be;
+}
+.sec-12{
+    background-color: #F3F5FB;
+    padding: 96px 0px 0px;
+}
+.display-4{
+    font-size: 56px;
+}
+.row-1{
+    margin: 0px -12px 72px;
+}
+.para-1{
+    font-size: 20px;
+    margin: 0px 0px 16px;
+    color: #495057;
+}
+.slide-img{
+    height: 298.35px;
+    width: 475.63px;
+    border-radius: 10px;
+}
+.sec-13{
+    background-color: #F3F5FB !important;
+}
+.svg-5{
+    position: relative;
+}
+.svg-6{
+    position:  absolute ;
+    left: -173px;
+    top: 0px;
+}
+.svg-7{
+    position: absolute;
+    top: 6px;
+    left: -351px;
+}
+.svg-8{
+    position: absolute;
+    top: 127px;
+    left: -108px;
+}
+.para-2{
+    font-size: 20px;
+    color: #495057;
+}
+.href{
+    font-size: 20px;
+    color: #3755be;
+}
+.arrow-icon:hover{
+    margin-left: 10px !important;
+}
+.sec-14{
+    background-color: #F3F5FB;
+}
+.con{
+    margin: 0px 179.444px;
+    padding: 96px 12px4;
+}
+.column{
+    margin-bottom: 10px;
+}
+.svg-9{
+    position: relative;
+    top: -96px;
+}
+.card-1{
+    background-color: #1B1F3B;
+    border-radius: 10px;
+    width: 451px !important;
+}
+@media only screen and (max-width: 475px) {
+.card-1{
+    width: 270px !important;
+  }
+}
+@media only screen and (max-width: 475px) {
+.card-2{
+    width: 270px !important;
+  }
+}
+.card-2{
+    width: 451px !important;
+}
+.svg-10{
+    position: relative;
+    top: 3px;
+}
+.head-1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.para-3{
+    font-size: 16px;
+    color: #495057;
+}
+.icon-1{
+    border: 4px solid #ff8e88;
+    border-radius: 3px;
+}
+.icon-flash{
+    color: #ff8e88;
+    font-size: 35px;
+}
+.para-4{
+    font-size: 20px;
+    color: #495057;
+}
+.svg-11{
+    width: 48px;
+}
+mark{
+    background-color: rgba(255,142,136,.2) !important;
+}
+.h2{
+    font-size: 32px !important;
+    font-weight: 600 !important;
+}
+.footer{
+    background-color: #1B1F3B;
+}
+.f-row{
+    background-color: #3755be;
+    border-radius: 10px;
+}
+.h-f{
+    font-size: 28px;
+    color: white;
+}
+.b-f{
+    margin-top: -10px;
+    width: 208px;
+    height: 50px;
+    font-size: 20px;
+    color: #3755be;
+    border-radius: 10px;
+    border: 0px;
+}
+.h-f2{
+    font-size: 20px;
+    color: white;
+}
+.inp{
+    height: 40px;
+    width: 100%;
+    padding: 7px 12px;
+    margin: 0px 0px 12px;
+    border-radius: 5px;
+}
+
+.inp-btn{
+    height: 40px;
+    width: 100%;
+    padding: 7px 12px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #3755be;
+    color: white;
+}
+.small{
+    color: #FFFFFFB3;
+    font-size: 12px !important;
+    margin-top: -8px;
+}
